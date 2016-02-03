@@ -33,6 +33,10 @@ body {
   width: auto;
 }
 
+.icon-bar {
+  background-color: #fff;
+}
+
 a.navbar-brand,
 a.navbar-brand:hover,
 a.navbar-brand:active {
