@@ -1,26 +1,29 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
-body {
-  padding-bottom: 40px;
+html, body {
+  height: 100%;
   color: #5a5a5a;
 }
 
+footer {
+  padding-bottom: 40px;
+}
 
-/* CUSTOMIZE THE NAVBAR
--------------------------------------------------- */
+#EMOConCarousel {
+  margin-bottom: 80px;
+}
 
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   left: 0;
   z-index: 20;
 }
 
-/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper.affix .navbar{
+  background-color: #111;
+  border-radius: 0;
+}
+
 .navbar-wrapper > .container {
   padding-right: 0;
   padding-left: 0;
@@ -28,9 +31,6 @@ body {
 .navbar-wrapper .navbar {
   padding-right: 15px;
   padding-left: 15px;
-}
-.navbar-wrapper .navbar .container {
-  width: auto;
 }
 
 .icon-bar {
@@ -52,31 +52,34 @@ ul.nav > li > a,
 ul.nav > li > a:hover,
 ul.nav > li > a:active {
   color: #fff;
-}
-
-ul.nav > li > a:hover {
   background-color: transparent;
-  border-bottom: 2px solid;
 }
 
-
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-
-/* Carousel base class */
-.carousel {
-  height: 500px;
-  margin-bottom: 60px;
+.navbar-wrapper.affix-top ul.nav > li > a:hover {
+  border-bottom: 2px solid #fff;
 }
-/* Since positioning the image, we need to help out the caption */
+
+.navbar-wrapper.affix ul.nav > li > a:hover {
+  color: #000;
+  background-color: #ddd;
+}
+
 .carousel-caption {
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 500px;
   z-index: 2;
+}
+
+.carousel-inner {
+  height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
 }
 
 .carousel-inner > img {
@@ -84,15 +87,10 @@ ul.nav > li > a:hover {
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 500px;
+  height: 100%;
   z-index: 1;
 }
 
-
-/* MARKETING CONTENT
--------------------------------------------------- */
-
-/* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
@@ -105,15 +103,10 @@ ul.nav > li > a:hover {
   margin-left: 10px;
 }
 
-
-/* Featurettes
-------------------------- */
-
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 40px 0;
 }
 
-/* Thin out the marketing headings */
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
@@ -138,12 +131,10 @@ ul.nav > li > a:hover {
     padding-left: 0;
   }
 
-  /* The navbar becomes detached from the top, so we round the corners */
   .navbar-wrapper .navbar {
     border-radius: 4px;
   }
 
-  /* Bump up size of carousel content */
   .carousel-caption p {
     margin-bottom: 20px;
     font-size: 21px;
@@ -152,6 +143,12 @@ ul.nav > li > a:hover {
 
   .featurette-heading {
     font-size: 50px;
+  }
+}
+
+@media (min-width: 750px) {
+  #EMOConCarousel {
+    height: 400px;
   }
 }
 
