@@ -42,7 +42,7 @@ EMOCON 2016 FW의 스폰서, 테드폴허브에서 진행하는 세션입니다.
 미국 어학연수에서 취업까지에 대한 내용을 간략하게 정리해 볼 계획입니다. 현실적으로 어떤 문제들이 있는지를 알아보고 미국으로 오실 계획이 있는 분들에게 조금이나마 도움을 드리고자 합니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=HArOXgttA04&index=2&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&spfreload=5)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/bestalign_study-and-work-in-us.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/bestalign_study-and-work-in-us.pdf)
 
 ### 까이완 사용법과 간편한 마이보틀 냉침
 
@@ -57,7 +57,7 @@ EMOCON 2016 FW의 스폰서, 테드폴허브에서 진행하는 세션입니다.
 오픈소스 프로젝트 번역에 관한 모든 것! 번역에 사용하는 도구, 방법 그리고 어떤 부분들이 번역에 도움이 되는지 소개합니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=1WYytlDZWf8&index=14&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/ujuc_translate-a-doc.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/ujuc_translate-a-doc.pdf)
 
 ### 5분 만에 채팅 웹서비스 만들기
 
@@ -66,7 +66,6 @@ EMOCON 2016 FW의 스폰서, 테드폴허브에서 진행하는 세션입니다.
 따라하면 누구든지 5분 만에 간단한 채팅 서비스를 만들 수 있습니다!
 
 - [발표 영상](https://www.youtube.com/watch?v=q9Qnxk8Hr64&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=11)
-- [발표 슬라이드]()
 
 ### Django로 순식간에 블로그 만들기
 
@@ -75,7 +74,7 @@ EMOCON 2016 FW의 스폰서, 테드폴허브에서 진행하는 세션입니다.
 Python Framework인 Django를 사용해서 간단한 블로그를 만드는 튜토리얼을 진행합니다. 개발환경 설정 후 간단한 앱을 완성하고 Heroku에 올려보는 것까지 진행할 예정입니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=m5pB4IJoNWI&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=10)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/chiyodad_django-x-heroku.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/chiyodad_django-x-heroku.pdf)
 
 ### 파이썬으로 크롤러 만들기
 
@@ -84,7 +83,7 @@ Python Framework인 Django를 사용해서 간단한 블로그를 만드는 튜�
 Python의 requests와 BeautifulSoup을 이용해서 구글의 이미지를 긁어오는 내용을 만드는 과정을 발표합니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=QAj1vbUdztQ&index=9&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/wapj_how-to-make-a-scrapper-with-python.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/wapj_how-to-make-a-scrapper-with-python.pdf)
 
 ## Day 2
 
@@ -97,7 +96,7 @@ Python의 requests와 BeautifulSoup을 이용해서 구글의 이미지를 긁�
 칼퇴근을 하고 싶은 당신에게, 슬랙에 퇴근봇 하나 어떠신가요? 10분만에 간편하게 만드는 서버리스 퇴근봇! 지금이라면 단돈 0원에 모십니다!
 
 - [발표 영상](https://www.youtube.com/watch?v=JYmebf9orDQ&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=8)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/shia_hiring-the-time-punch-bot.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/shia_hiring-the-time-punch-bot.pdf)
 
 ### Azure Functions 를 이용한 서버리스 컴퓨팅
 
@@ -106,7 +105,7 @@ Python의 requests와 BeautifulSoup을 이용해서 구글의 이미지를 긁�
 서버 관리에 신경을 쓰지 않고 클라우드의 컴퓨팅 파워를 온전히 쓰기 위해서는 서버리스 아키텍처가 좋은 대안이 될 수 있습니다. AWS Lambda 서비스가 나와서 서버리스 컴퓨팅 시장을 열었고, 이제 Azure Functions 서비스가 그 뒤를 따르고 있는데요, 서버리스 아키텍처의 큰 특징 중 하나인 이벤트 기반, 즉 모든 펑션은 HTTP 요청, 타이머, 메시지 큐 등과 같은 이벤트 들에 의해 작동한다는 것을 의미합니다. 하지만, 아직 AWS Lambda 서비스와 달리 Azure Functions 는 성장중이어서 테스트와 관련한 기능이 부족합니다. 이 세션에서는 1) 서버리스 아키텍처란 무엇인가, 2) Azure Functions 가 node.js 와 C#에서 어떻게 작동하는가, 3) 단위 테스트를 어떻게 수행하는가, 4) 배포 전략은 어떻게 가져갈 것인가 등에 대해 가볍게 논의해 보도록 하겠습니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=LEfU5w4COds&index=7&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/justinchronicle_serverless-computing-with-azure-functions.pptx)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/justinchronicle_serverless-computing-with-azure-functions.pptx)
 
 
 ### RxSwift를 이용하여 콜백 지옥 탈출하기
@@ -116,7 +115,6 @@ Python의 requests와 BeautifulSoup을 이용해서 구글의 이미지를 긁�
 UI 이벤트, 네트워크 처리 및 데이터 갱신 등에서 콜백 지옥이나 이벤트 등록 후 추적, 스레드를 넘나들면서 작업했던 경험이 있으신가요? 이제 RxSwift를 이용하여 가독성을 높이고 스레드를 쉽게 넘나들며 콜백 지옥에서 탈출해보시겠습니까?
 
 - [발표 영상](https://www.youtube.com/watch?v=jCT-eUaD-d4&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=6)
-- [발표 슬라이드]()
 
 ### AngularJS in Production
 
@@ -125,7 +123,7 @@ UI 이벤트, 네트워크 처리 및 데이터 갱신 등에서 콜백 지옥�
 AngularJS를 3년간 프로덕션에서 사용하며 얻은 경험들을 공유합니다. 싱글 페이지 애플리케이션은 SEO를 어떻게 대응해야 하는지, 덩치가 커져만 가는 프로젝트를 Webpack을 통해 어떻게 관리하고 빠른 개발속도를 유지하는지, 그리고 성능은 어떻게 향상할 수 있는지를 중점적으로 다룹니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=prZqIgVgijA&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=5)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/mooyoul_angularjs-in-production.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/mooyoul_angularjs-in-production.pdf)
 
 ### Coding with Service Worker
 
@@ -134,7 +132,7 @@ AngularJS를 3년간 프로덕션에서 사용하며 얻은 경험들을 공유�
 웹에서 `서비스워커`는 특별한 위치를 가지게 될 중요한 규격입니다. App-like Web의 몇가지 핵심 기능이 이를 통해 어떻게 구현되는지 살펴보고 잊어버리도록 합시다.
 
 - [발표 영상](https://www.youtube.com/watch?v=psQWcltlmqY&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=4)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/cwdoh_coding-with-serviceworker.pdf)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/cwdoh_coding-with-serviceworker.pdf)
 
 ### DevOps 엔지니어를 위한 Web 가용성 테스트 자동화하기
 
@@ -143,7 +141,7 @@ AngularJS를 3년간 프로덕션에서 사용하며 얻은 경험들을 공유�
 Azure Application Insights 는 API 모니터링을 위한 웹 가용성 테스트 기능을 제공합니다. 이 테스트는 수동으로 등록할 수도 있고, 자동화할 수도 있는데요, 이 세션에서는 Azure 포탈을 이용해서 수동으로 등록하는 방법, 그리고 콘솔 애플리케이션을 이용해서 자동으로 등록하는 방법에 대해 간략하게 다뤄보도록 하겠습니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=F7ZUlFRZ65E&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=1)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/justinchronicle_web-availabilty-testing-for-devops.pptx)
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/justinchronicle_web-availabilty-testing-for-devops.pptx)
 
 
 ### Front-end pipeline 끝판 체험
@@ -153,6 +151,4 @@ Azure Application Insights 는 API 모니터링을 위한 웹 가용성 테스�
 프론트앤드(static web, spa, pwa)를 개발, 빌드, 배포, 테스트에 관한 고급 내용을 빠르게 소개하는 형태로 다루려고 합니다. gulp + webpack 조합으로 개발서버를 띄우기 + js 프리컴파일 + 테스트 자동화 + aws s3에 배포하여 cdn에 등록되어 서비스하는 프론트엔드 파이프라인의 끝판을 보여주려합니다. 프론트앤드 고수 개발자에게는 새로운 툴조합을 보고 얻어가는게 있을 것이며, 다른 분야 개발자는 프론트앤드가 이정도로 발전했구나를 알 수 있고, 초보 프론트 개발자는 이렇게 구성해서 프론트앤드를 개발이 가능하구나를 알 수 있습니다. livedemo, tool overview 스타일로 진행됩니다.
 
 - [발표 영상](https://www.youtube.com/watch?v=o9uZ7LCgFBs&list=PLJ0BuvoGAkXuJnFRTnvUnUEtEjzQ01ZHC&index=3)
-- [발표 슬라이드](https://github.com/weirdmeetup/emocon/blob/gh-pages/2016fw/slides/artishan_frontend-pipeline.pdf)
-
-
+- [발표 슬라이드](http://emocon.weirdx.io/2016fw/slides/artishan_frontend-pipeline.pdf)
