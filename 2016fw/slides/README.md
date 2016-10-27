@@ -69,7 +69,7 @@ EMOCON 2016 FW의 스폰서, 테드폴허브에서 진행하는 세션입니다.
 
 ### Django로 순식간에 블로그 만들기
 
-**@chiyodad 박수석**
+**@chiyodad**
 
 Python Web Framework인 Django를 사용해서 간단한 블로그를 만드는 튜토리얼을 진행합니다. 개발환경 설정 후 간단한 앱을 완성하고 Heroku에 올려보는 것까지 진행할 예정입니다.
 
