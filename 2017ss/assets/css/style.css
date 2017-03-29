@@ -4021,3 +4021,9 @@ footer.footer-four .overlay{
 }
 
 /*----------------Thank You------------------*/
+
+.navbar-brand .img-responsive {
+    max-width: 203px;
+    width: 100%;
+}
+
